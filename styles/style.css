@@ -3,9 +3,22 @@ body{
 }
 
 .big_title{
-    font-family: monospace;
+    font-family: trirong;
 }
 
-.red_models{
-    
+
+.threepicture{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
 }
+
+
+.rounded_images{
+    border-radius: 10px;
+
+}
+
+
+
+
