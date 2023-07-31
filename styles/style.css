@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(218, 203, 203);
+    background-color: rgb(241, 234, 234);
 }
 
 .big_title{
@@ -10,7 +10,7 @@ body{
 .threepicture{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
+    gap: 10px;
 }
 
 
